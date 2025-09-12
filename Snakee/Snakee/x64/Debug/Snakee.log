@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\desktop\Snakee\Snakee\main.cpp(16,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snakee.vcxproj -> D:\desktop\Snakee\x64\Debug\Snakee.exe

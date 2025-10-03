@@ -1,5 +1,4 @@
 #pragma once
-//报错
 //#ifndef__SNAKE_H__
 //#define__SNAKE_H__
 
